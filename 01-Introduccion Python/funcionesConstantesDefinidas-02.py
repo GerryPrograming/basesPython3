@@ -59,3 +59,17 @@ float()
 bool()
 complex()
 str()
+
+# Funcion para representar el valor absoluto -3 = 3
+variable = -3
+abs(variable)
+
+# Funcion para devolver el cociente de una divicion 
+divmod(3,2) 
+# (1,1) seldra el valor que sale en pantalla de forma de tupla
+
+# Funcion para sacar la potencia sabiendo su base y su expo
+pow(5,3)
+
+# Funcion para redondear un numero
+round(5.3255215645, 3)
